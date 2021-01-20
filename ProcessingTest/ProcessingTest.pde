@@ -4,6 +4,6 @@ void setup() {
 }
 
 void draw() {
-    stroke(random(256), 0, 0);
+    stroke(random(155), 0, 0);
     line(width/2, height/2, random(width), random(height));
 }
